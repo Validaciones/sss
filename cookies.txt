@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.edomex.gob.mx	TRUE	/	FALSE	1999999999	BIGipServer~Partition_302~pool_302_edu_certificados	rd302o00000000000000000000ffff0a0a4286o80
+.edomex.gob.mx	TRUE	/	FALSE	1999999999	dtCookie	v_4_srv_3_sn_44C639E9A6B688A2976EF311FBD2E7B2_perc_100000_ol_0_mul_1_app-3Aec2c9df79e5212bf_1_rcs-3Acss_0
+www.edomex.gob.mx	TRUE	/	FALSE	1999999999	BIGipServer~Partition_302~pool_302_edomex_2018	rd302o00000000000000000000ffff0a0a4252o80
+

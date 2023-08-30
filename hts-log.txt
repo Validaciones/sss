@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 30 Aug 2023 10:12:14 at https://www.edomex.gob.mx/cert/validacion/consulta.aspx?d=MGd6WTNRRE0zZ2pZa1YyWXRNMk4zRVdMMkVUWjAwaU5sWmpNdEUyTXdjallqZFROK0ZUUU94a1VEMUVTekFETndrRE1CRlVRRDVuVnlRek0wSUZVRlZUTQ==#no-back-button +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.edomex.gob.mx/cert/validacion/consulta.aspx?d=MGd6WTNRRE0zZ2pZa1YyWXRNMk4zRVdMMkVUWjAwaU5sWmpNdEUyTXdjallqZFROK0ZUUU94a1VEMUVTekFETndrRE1CRlVRRDVuVnlRek0wSUZVRlZUTQ==#no-back-button -O1 "C:\My Web Sites\primaria" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:12:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+10:12:27	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link primary/no-back-button (from primary/primary)
+10:12:35	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/no-back-button (from primary/primary)
+10:12:37	Warning: 	Moved Temporarily for https://www.edomex.gob.mx/cert/validacion/Firefox/
+10:12:37	Warning: 	File has moved from https://www.edomex.gob.mx/cert/validacion/Firefox/ to http://edomex.gob.mx/#inicio
+10:12:37	Warning: 	Moved Temporarily for https://www.edomex.gob.mx/cert/validacion/AppleWebKit/
+10:12:37	Warning: 	File has moved from https://www.edomex.gob.mx/cert/validacion/AppleWebKit/ to http://edomex.gob.mx/#inicio
+10:12:37	Warning: 	Moved Temporarily for https://www.edomex.gob.mx/cert/validacion/Opera/
+10:12:37	Warning: 	File has moved from https://www.edomex.gob.mx/cert/validacion/Opera/ to http://edomex.gob.mx/#inicio
+10:12:37	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/no-back-button (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 24 seconds : 36 links scanned, 28 files written (1142398 bytes overall) [928885 bytes received at 38703 bytes/sec], 325773 bytes transferred using HTTP compression in 7 files, ratio 31%, 13.0 requests per connection
+(2 errors, 8 warnings, 0 messages)
